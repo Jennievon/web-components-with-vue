@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "@webcomponents/webcomponentsjs": "^2.8.0",
-    "custom-task-web-component": "^1.0.0",
+    "custom-task-web-component": "^1.0.1",
     "vue": "^3.3.4"
   },
   "devDependencies": {
